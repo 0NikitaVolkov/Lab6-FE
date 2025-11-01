@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 50px;
+}
+
+#loadUser {
+  display: block;      
+  margin: 20px auto;    
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#loadUser:hover {
+  background-color: #45a049;
+}
+
+#user {
+  display: block;    
+  margin: 20px auto;
+  padding: 20px;
+  width: 250px;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  background-color: #f9f9f9;
+}
+
+    img {
+      border-radius: 50%;
+    }
